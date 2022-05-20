@@ -1,0 +1,18 @@
+{
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "scripts": {
+    "dev": "parcel ./index.html",
+    "build": "parcel build ./index.html"
+  },
+  "dependencies": {
+    "ethers": "^5.6.0",
+    "ev-emitter": "^2.1.2",
+    "form-data": "^4.0.0",
+    "fs": "^0.0.1-security",
+    "moralis": "^1.7.0",
+    "node-fetch": "^3.2.2",
+    "web3": "^1.7.1"
+  }
+}
