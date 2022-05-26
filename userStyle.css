@@ -164,7 +164,7 @@
 
 .character_spritesheet {
    position: absolute;
-   background: url(assets/character.png) no-repeat no-repeat;
+   background: url(assets/specsChar.png) no-repeat no-repeat;
    background-size: 100%;
    width: calc( var(--grid-cell)* 8 );
    height: calc( var(--grid-cell)* 8 );

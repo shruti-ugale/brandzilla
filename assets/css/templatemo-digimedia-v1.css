@@ -66,6 +66,10 @@ figure, header, nav, section, article, aside, footer, figcaption {
   max-width: 100%;
 }
 
+.logoSize {
+  width:"200000%"
+}
+
 .clearfix:after {
   content: ".";
   display: block;
@@ -264,7 +268,7 @@ intro
 */
 
 .intro-banner img {
-  max-width: 152px;
+  max-width: 500px;
   margin-bottom: 30px;
 }
 
